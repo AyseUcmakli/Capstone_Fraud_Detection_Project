@@ -22,8 +22,6 @@ Then, we will use four different algorithms in the model building phase.
 
 In the final step, we will deploy your model using Streamlit API.
 
-Optional: We can Dockerize your project and deploy on cloud.
-
 #### 1. Exploratory Data Analysis & Data Cleaning
 
 - Import Modules, Load Data & Data Review
